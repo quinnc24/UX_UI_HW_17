@@ -1,0 +1,58 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+.logo {
+    float: left;
+    text-align: center;
+    width: 23%;
+    padding: 1%;
+}
+nav {
+    float: right;
+    width: 73%;
+    padding: 1%;
+}
+nav ul {
+    width: 50%;
+    margin-left: auto;
+    padding: 20px;
+}
+nav ul li {
+    padding: 15px;
+}
+.heroImg {
+    height: 600px;
+    padding: 25px;
+}
+.headshot {
+    float: right;
+    width: 40%;
+    margin-right: 10%;
+    text-align: end;
+}
+.aboutMe {
+    float: left;
+    width: 40%;
+    padding-top: 100px;
+    margin-left: 10%;
+}
+footer {
+    border-color: #373738;
+    padding: 15px;
+}
+.foot {
+    float: left;
+    text-align: left;
+    width: 50%;
+}
+.logo2 {
+    float: right;
+    width: 47%;
+    text-align: end;
+    padding: 1.5%;
+}
+.foot ul li {
+    text-align: center;
+    padding: 15px;
+}
